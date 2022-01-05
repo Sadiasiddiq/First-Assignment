@@ -19,6 +19,11 @@ margin-top: 0;
 h6{
     font-weight: lighter;
 }
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .flexible-container{
     display: flex;
 }
@@ -44,4 +49,10 @@ h6{
     padding: 5px 15px;
     border-radius: 5px;
 
+}
+#color{
+    color: rgb(253, 169, 14);
+}
+.illustrator{
+width: 33%;
 }
