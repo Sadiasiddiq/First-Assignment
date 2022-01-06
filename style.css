@@ -75,14 +75,53 @@ margin-right: 2%;
     
 }
 #vission-bg{
-    background-color: rgba(255, 223, 252, 0.829);
+    background-color: rgba(252, 236, 250, 0.733);
     border-radius: 5%;
     padding: 5%;
     
 }
 #goals-bg{
-    background-color: rgba(250, 255, 173, 0.829);
+    background-color: rgba(247, 252, 184, 0.747);
     border-radius: 5%;
     padding: 5%;
     
+}
+.third-section{
+    margin: 20px;
+    padding-top: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+}
+.fourth-section{
+    margin: 20px;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 88% 76%;
+}
+.left-part-width{
+    width: 40%;
+    padding-left: 5%;
+}
+.left-part-width img{
+    width: 80%;
+}
+.right-part-width{
+    width:60%;
+   
+}
+.right-part-width h1{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.right-part-width h2{
+    font-size: 35px;
+    color: black;
+}
+#project-image img{
+    width: 60%;
 }
