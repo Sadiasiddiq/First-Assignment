@@ -2,10 +2,9 @@ body{
     font-family: 'Source Serif Pro', serif;
     margin: 0%;
 }
-section{
+.first-section{
     margin: 20px;
 }
-
 h1{
     font-size: 50px;
     margin-bottom: 0;
@@ -54,5 +53,36 @@ h3{
     color: rgb(253, 169, 14);
 }
 .illustrator{
-width: 33%;
+width: 50%;
+padding-top: 5%;
+margin-right: 2%;
+}
+.illustrator img{
+    width: 50%;
+}
+.second-section{
+    margin: 20px;
+    padding-left: 5%;
+}
+.illustrator p{
+    font-size: 12px;
+}
+#mission-bg{
+    background-color: rgba(223, 251, 255, 0.829);
+    border-radius: 5%;
+    padding: 5%;
+  
+    
+}
+#vission-bg{
+    background-color: rgba(255, 223, 252, 0.829);
+    border-radius: 5%;
+    padding: 5%;
+    
+}
+#goals-bg{
+    background-color: rgba(250, 255, 173, 0.829);
+    border-radius: 5%;
+    padding: 5%;
+    
 }
